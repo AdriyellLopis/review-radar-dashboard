@@ -4,7 +4,7 @@ A Python dashboard that reads real Amazon phone-accessory reviews, classifies ea
 
 **[🔗 Live demo](https://review-radar-dashb.streamlit.app/)**
 
-![Review Radar dashboard](docs/dashboard.png)
+<img width="1596" height="689" alt="review-radar-dashboard_image" src="https://github.com/user-attachments/assets/bde90134-9438-48e6-95d7-cae0ab199bff" />
 
 *Individual project, CAPACITI Programme (Week 3: AI for Data Analysis & Insights).*
 
